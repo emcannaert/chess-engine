@@ -24,7 +24,6 @@ def loadImages():
 '''
 This will be the main driver. will handle user input and updating graphics
 
-change
 '''
 def main():
     p.init()
