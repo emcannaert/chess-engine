@@ -1,3 +1,3 @@
 # chess-engine
 
-a simple chess engine made from following a series on youtube
+A simple chess engine project. Now I find out if I am better at chess or programming ...
